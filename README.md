@@ -1,5 +1,10 @@
 # TokSignal Creator Analyzer
 
+[![Static Site](https://img.shields.io/badge/Static%20Site-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://toksignal.netlify.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-3DA639?style=for-the-badge)](LICENSE)
+[![Support](https://img.shields.io/badge/Support-Project-555555?style=for-the-badge)](SUPPORT.md)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ryancreates-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ryancreates)
+
 A mobile friendly TikTok style analytics dashboard for creators. Upload a CSV or paste TikTok Studio style table data, then get profile scoring, content pillar analysis, top post signals, growth insights, and next video ideas.
 
 Live demo: https://toksignal.netlify.app/
@@ -91,6 +96,11 @@ Use Paste analytics when a creator copies rows from TikTok Studio, Excel, Google
 Screenshots are not supported yet in this static version.
 
 ## Support links
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ryancreates-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ryancreates)
+[![Linktree](https://img.shields.io/badge/Linktree-ryandevs-43E660?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/ryandevs)
+[![TikTok](https://img.shields.io/badge/TikTok-Fluffy%20Nerdy%20Glam-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fluffynerdyglam)
+[![TikTok](https://img.shields.io/badge/TikTok-Gristlem-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gristlem)
 
 | Link | URL |
 | --- | --- |
