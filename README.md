@@ -2,7 +2,7 @@
 
 A mobile friendly TikTok style analytics dashboard for creators. Upload a CSV or paste TikTok Studio style table data, then get profile scoring, content pillar analysis, top post signals, growth insights, and next video ideas.
 
-Live demo: https://fancy-bonbon-c81983.netlify.app/
+Live demo: https://toksignal.netlify.app/
 
 ## Status
 
