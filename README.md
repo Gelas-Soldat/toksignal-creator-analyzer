@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-3DA639?style=for-the-badge)](LICENSE)
 [![Support](https://img.shields.io/badge/Support-Project-555555?style=for-the-badge)](SUPPORT.md)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ryancreates-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ryancreates)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Gelassoldat-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/gelassoldat)
 
 A mobile friendly TikTok style analytics dashboard for creators. Upload a CSV or paste TikTok Studio style table data, then get profile scoring, content pillar analysis, top post signals, growth insights, and next video ideas.
 
